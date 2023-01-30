@@ -5,7 +5,7 @@
 <h4>Keywords: </h4>
 <p>Knowledge graphs, Question answering systems, Knowledge subgraph, Personal Page Rank</p>
 
-<h4>Publication</h4>
+<h4>Acknowledgement</h4>
 This work is part of "Building Knowledge Subgraphs in Question Answering over Knowledge Graphs". Therefore, if you use any code from this repository, please cite our work.
 
 ```
@@ -25,3 +25,5 @@ keywords = {Knowledge subgraph, Knowledge graphs, Personal Page Rank, Question a
 location = {Bari, Italy}
 }
 ```
+We follow [GraftNet](https://github.com/haitian-sun/GraftNet) to conduct this work.
+
