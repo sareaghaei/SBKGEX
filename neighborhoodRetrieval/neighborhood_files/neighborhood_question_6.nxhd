@@ -1,0 +1,140 @@
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2002/07/owl#Thing>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Food>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.wikidata.org/entity/Q2095>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<الكوكيز برقائق الشوكولاتة>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<Chocolate chip cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<Galeta amb xips de xocolata>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<Galleta con pepitas de chocolate>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<Biskuit butir cokelat>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<チョコチップクッキー>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<초코 칩 쿠키>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<Печиво з шоколадними дрібками>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#label>	<巧克力片餅乾>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<الكوكيز برقائق الشوكولاتة هي أقراص دائرية من البسكويت بدأت في الولايات المتحدة وتحتوي على رقائق الشوكولاتة (فتات صغيرة من الشوكولاتة المحلاة) وهي المكون الذي يميز الكوكيز. في حوالي عام 1938، أضافت قطع صغيرة من شوكولاتة نستله نصف محلاه إلى الكوكيز تجمع الوصفة التقليدية عجين مكوّن من الزبدة والسكر البني والأبيض ورقائق الشوكولاتة نصف محلاه وفانيليا. وتشمل الاختلافات وصفات مع أنواع أخرى من الشوكولاتة وكذلك مكونات إضافية مثل المكسرات أو دقيق الشوفان. هناك أيضا وصفات نباتية مع بدائل للمكونات مثل رقائق الشوكولاتة النباتية، والسمن النباتي، وما إلى ذلك.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<Un bescuit amb xips de xocolata és un bescuit que es va crear als Estats Units amb xips de xocolata com a ingredient distintiu. La recepta tradicional combina una massa a base de mantega i sucre roig o blanc amb xips de xocolata semidolç. Les variacions inclouen receptes amb altres tipus de xocolata o ingredients addicionals, com ara nous o farina de civada.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<Una galleta con pepitas de chocolate o con chispas de chocolate es una galleta de origen estadounidense con pepitas de chocolate como ingrediente distintivo. La receta tradicional combina una masa a base de mantequilla y azúcar moreno o blanco con pepitas de chocolate semidulces.Las variaciones incluyen recetas con otros tipos de chocolate o ingredientes adicionales, como nueces o avena.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<チョコチップクッキーまたはチョコレートチップクッキー（英: Chocolate chip cookie）は、チョコチップが特徴のクッキーである。1938年、がネスレのチョコバーを刻んでクッキーのレシピに加えたことで生まれた。 一般的には、小麦粉、バター、黒砂糖、グラニュー糖、チョコチップ、卵、バニラを混ぜ合わせた生地を用いて作る。他の種類のチョコレートや、ナッツやオートミールなどの材料を加えることがある。また、ヴィーガンチョコチップ、ヴィーガンマーガリン、卵の代用品など、必要な材料を代用したヴィーガン向けのものもある。>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<초코 칩 쿠키는 밀가루, 버터, 달걀로 된 반죽 위에 초콜릿을 다진 것이나 초콜릿 칩을 얹어 구운 과자다.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<巧克力片饼干是一种起源於美国的饼干。特點是在饼干中有，传统配方是用有奶油、砂糖、白糖及半甜巧克力片的面团製成。也有些作法會加入不同的巧克力，或是像坚果或燕麦片等成份。>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient. Chocolate chip cookies originated in the United States around 1938, when Ruth Graves Wakefield chopped up a Nestlé semi-sweet chocolate bar and added the chopped chocolate to a cookie recipe.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<Biskuit butir cokelat adalah jenis kue kering yang berasal dari Amerika Serikat dan memiliki butir cokelat (potongan kecil cokelat manis) sebagai bahan pembeda. Sekitar tahun 1938, Ruth Graves Wakefield menambahkan potongan bit dari batang cokelat semi-manis Nestlé ke dalam biskuit.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2000/01/rdf-schema#comment>	<Печиво з шоколадними дрібками — це печиво, яке з'явилося у Сполучених Штатах Америки. Його відмінним інгредієнтом є шоколадні дрібки. Приблизно в 1938 році Рут Грейвз Уейкфілд додала в печиво подрібнені шматочки з напівсолодкого шоколадного батончика Nestlé.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/name>	<Chocolate chip cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/name>	<Chocolate chip cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate_chip_bar.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate_chip_cookie_ingredients.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate_cookie_dough.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/C_is_for_cookie_-_chocolate_chip_cookie_detail.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/2ChocolateChipCookies.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Cookies_for_breakfast._Because_I_can._(courtesy_of_@ssgastrogrub._Thanks!)_(14980997014).jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Galleta_con_trozos_de_chocolate.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Plate_of_chocolate_chip_cookies,_ready_to_munch.jpg>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/elements/1.1/type>	<Dessertorsnack>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Articles_containing_video_clips>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Food_and_drink_introduced_in_1938>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:New_England_cuisine>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:American_inventions>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:1938_establishments_in_the_United_States>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:American_desserts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Chocolate_desserts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Cookies>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Massachusetts_cuisine>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/wikiPageID>	<76723>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/wikiPageRevisionID>	<1068211835>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/wikiPageExternalLink>	<https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://rdf.freebase.com/ns/m.0k5sl>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<https://global.dbpedia.org/id/RjBk>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/entity/Q14169302>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://ar.dbpedia.org/resource/الكوكيز_برقائق_الشوكولاتة>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://ca.dbpedia.org/resource/Galeta_amb_xips_de_xocolata>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://es.dbpedia.org/resource/Galleta_con_pepitas_de_chocolate>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://he.dbpedia.org/resource/עוגיית_שוקולד_צ'יפס>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://id.dbpedia.org/resource/Biskuit_butir_cokelat>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://ja.dbpedia.org/resource/チョコチップクッキー>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://jv.dbpedia.org/resource/Kukis_kripik_soklat>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://ka.dbpedia.org/resource/ორცხობილა_შოკოლადის_ნამცეცებით>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://ko.dbpedia.org/resource/초코_칩_쿠키>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://simple.dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://tr.dbpedia.org/resource/Damla_çikolatalı_kurabiye>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://uk.dbpedia.org/resource/Печиво_з_шоколадними_дрібками>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/2002/07/owl#sameAs>	<http://zh.dbpedia.org/resource/巧克力片餅乾>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://purl.org/linguistics/gold/hypernym>	<http://dbpedia.org/resource/Cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<الكوكيز برقائق الشوكولاتة هي أقراص دائرية من البسكويت بدأت في الولايات المتحدة وتحتوي على رقائق الشوكولاتة (فتات صغيرة من الشوكولاتة المحلاة) وهي المكون الذي يميز الكوكيز. في حوالي عام 1938، أضافت قطع صغيرة من شوكولاتة نستله نصف محلاه إلى الكوكيز تجمع الوصفة التقليدية عجين مكوّن من الزبدة والسكر البني والأبيض ورقائق الشوكولاتة نصف محلاه وفانيليا. وتشمل الاختلافات وصفات مع أنواع أخرى من الشوكولاتة وكذلك مكونات إضافية مثل المكسرات أو دقيق الشوفان. هناك أيضا وصفات نباتية مع بدائل للمكونات مثل رقائق الشوكولاتة النباتية، والسمن النباتي، وما إلى ذلك.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<Un bescuit amb xips de xocolata és un bescuit que es va crear als Estats Units amb xips de xocolata com a ingredient distintiu. La recepta tradicional combina una massa a base de mantega i sucre roig o blanc amb xips de xocolata semidolç. Les variacions inclouen receptes amb altres tipus de xocolata o ingredients addicionals, com ara nous o farina de civada.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient. Chocolate chip cookies originated in the United States around 1938, when Ruth Graves Wakefield chopped up a Nestlé semi-sweet chocolate bar and added the chopped chocolate to a cookie recipe. Generally, the recipe starts with a dough composed of flour, butter, both brown and white sugar, semi-sweet chocolate chips, eggs, and vanilla. Variations on the recipe may add other types of chocolate, as well as additional ingredients such as nuts or oatmeal. There are also vegan versions with the necessary ingredient substitutions, such as vegan chocolate chips, vegan margarine, and egg substitutes. A chocolate chocolate chip cookie uses a dough flavored with chocolate or cocoa powder, before chocolate chips are mixed in. These variations of the recipe are also referred to as ‘double’ or ‘triple’ chocolate chip cookies, depending on the combination of dough and chocolate types.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<Una galleta con pepitas de chocolate o con chispas de chocolate es una galleta de origen estadounidense con pepitas de chocolate como ingrediente distintivo. La receta tradicional combina una masa a base de mantequilla y azúcar moreno o blanco con pepitas de chocolate semidulces.Las variaciones incluyen recetas con otros tipos de chocolate o ingredientes adicionales, como nueces o avena.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<Biskuit butir cokelat adalah jenis kue kering yang berasal dari Amerika Serikat dan memiliki butir cokelat (potongan kecil cokelat manis) sebagai bahan pembeda. Sekitar tahun 1938, Ruth Graves Wakefield menambahkan potongan bit dari batang cokelat semi-manis Nestlé ke dalam biskuit. Resep tradisional menggabungkan adonan yang terdiri dari mentega dan gula cokelat dan putih, butir cokelat semi-manis dan vanilla. Variasi termasuk resep dengan jenis cokelat lainnya serta bahan tambahan seperti kacang atau havermut. Ada juga versi vegan dengan substitusi bahan seperti butir cokelat vegan, margarin vegan, dan sebagainya.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<チョコチップクッキーまたはチョコレートチップクッキー（英: Chocolate chip cookie）は、チョコチップが特徴のクッキーである。1938年、がネスレのチョコバーを刻んでクッキーのレシピに加えたことで生まれた。 一般的には、小麦粉、バター、黒砂糖、グラニュー糖、チョコチップ、卵、バニラを混ぜ合わせた生地を用いて作る。他の種類のチョコレートや、ナッツやオートミールなどの材料を加えることがある。また、ヴィーガンチョコチップ、ヴィーガンマーガリン、卵の代用品など、必要な材料を代用したヴィーガン向けのものもある。>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<초코 칩 쿠키는 밀가루, 버터, 달걀로 된 반죽 위에 초콜릿을 다진 것이나 초콜릿 칩을 얹어 구운 과자다.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<Печиво з шоколадними дрібками — це печиво, яке з'явилося у Сполучених Штатах Америки. Його відмінним інгредієнтом є шоколадні дрібки. Приблизно в 1938 році Рут Грейвз Уейкфілд додала в печиво подрібнені шматочки з напівсолодкого шоколадного батончика Nestlé. Традиційний рецепт починається з тіста, що складається з масла та коричневого та білого цукру, напівсолодких шоколадних дрібок та ванілі. Варіанти рецепту можуть додавати інші види шоколаду, а також додаткові інгредієнти, такі як горіхи або вівсянка. Існують також веганські версії з необхідними замінами інгредієнтів, такими як веганські шоколаді дрібки, веганський маргарин, замінник яєць тощо. Шоколадне печиво з шоколадними дрібками використовує тісто, приправлене шоколадом або какао-порошком, перед додавання шоколадних дрібок. Ці варіанти рецепту часто називають «подвійним» або «потрійним» печивом з шоколадними дрібками, залежно від комбінації тіста та типів шоколаду.>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/abstract>	<巧克力片饼干是一种起源於美国的饼干。特點是在饼干中有，传统配方是用有奶油、砂糖、白糖及半甜巧克力片的面团製成。也有些作法會加入不同的巧克力，或是像坚果或燕麦片等成份。>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Citation_needed>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Div_col>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Div_col_end>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:For>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Frac>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Infobox_prepared_food>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:More_citations_needed>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Portal>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Pp-semi-indef>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Reflist>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Short_description>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Globalize_section>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Nestlé>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Chocolate_desserts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/caption>	<Two chocolate chip cookies>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/country>	<United States>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/course>	<Dessert or snack>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/creator>	<http://dbpedia.org/resource/Toll_House_Inn>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/creator>	<http://dbpedia.org/resource/Ruth_Graves_Wakefield>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/imageSize>	<220>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/mainIngredient>	<Flour, sugar, brown sugar, butter or margarine, chocolate chips, eggs, vanilla, baking soda, salt>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/region>	<http://dbpedia.org/resource/Whitman,_Massachusetts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/region>	<http://dbpedia.org/resource/Massachusetts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/variations>	<Multiple, including adding nuts, oatmeal, peanut butter>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/property/year>	<c. 1938>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/wikiPageInterLanguageLink>	<http://fr.dbpedia.org/resource/Cookie_(cuisine)>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredientName>	<Flour,sugar,brown sugar,butterormargarine,chocolate chips,eggs,vanilla,baking soda,salt>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/year>	<1938>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/thumbnail>	<http://commons.wikimedia.org/wiki/Special:FilePath/2ChocolateChipCookies.jpg?width=300>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/creatorOfDish>	<http://dbpedia.org/resource/Ruth_Graves_Wakefield>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/hasVariant>	<http://dbpedia.org/resource/Oatmeal>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/hasVariant>	<http://dbpedia.org/resource/Peanut_butter>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Chocolate_chip>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Salt>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Margarine>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Vanilla>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Brown_sugar>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Sugar>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Sodium_bicarbonate>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Butter>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Egg_as_food>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Flour>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/region>	<http://dbpedia.org/resource/Whitman,_Massachusetts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/region>	<http://dbpedia.org/resource/Massachusetts>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/type>	<http://dbpedia.org/resource/Dessert>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/type>	<http://dbpedia.org/resource/Snack>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://en.wikipedia.org/wiki/Chocolate_chip_cookie?oldid=1068211835&ns=0>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://dbpedia.org/ontology/wikiPageLength>	<14828>
+<http://dbpedia.org/resource/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/isPrimaryTopicOf>	<http://en.wikipedia.org/wiki/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Ruth_Graves_Wakefield>	<http://www.w3.org/2000/01/rdf-schema#seeAlso>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Choc_chip_cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_Chip_Cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookies>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Toll_House_cookies>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Neiman_Marcus_cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate-chip_cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate-chip_cookies>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_Chip_Cookies>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chip_biscuit>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie_recipes>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chocolate_chip_cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/TollHouseCookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Toll_House_Cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Toll_House_cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Tollhouse_cookie>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Tollhouse_cookies>	<http://dbpedia.org/ontology/wikiPageRedirects>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chip_(disambiguation)>	<http://dbpedia.org/ontology/wikiPageDisambiguates>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Massachusetts>	<http://dbpedia.org/property/food>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://dbpedia.org/resource/Chocolate_chip_cookie_dough_ice_cream>	<http://dbpedia.org/ontology/ingredient>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
+<http://en.wikipedia.org/wiki/Chocolate_chip_cookie>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://dbpedia.org/resource/Chocolate_chip_cookie>
