@@ -1,5 +1,6 @@
 # SBKGEX
-<h2>Abstract</h2>
+<h2>Building Knowledge Subgraphs in Question Answering over Knowledge Graphs</h2>
+<h4>Abstract</h4>
 <p>Question answering over knowledge graphs targets to leverage facts in knowledge graphs to answer natural language questions. The presence of large number of facts, particularly in huge and well-known knowledge graphs such as DBpedia, makes it difficult to access the knowledge graph for each given question. This paper describes a generic solution based on Personal Page Rank for extracting a small subset from the knowledge graph as a knowledge subgraph which is likely to capture the answer of the question. Given a natural language question, relevant facts are determined by a bi-directed propagation process based on Personal Page Rank. Experiments are conducted over FreeBase, DBPedia and WikiMovie to demonstrate the effectiveness of the approach in terms of recall and size of the extracted knowledge subgraphs.</p>
 
 <h4>Keywords: </h4>
