@@ -28,5 +28,5 @@ location = {Bari, Italy}
 ```
 We follow [GraftNet](https://github.com/haitian-sun/GraftNet) to conduct this work.
 
-To set-up a dataset(e.g., DBPedia) end point on a local server, please find the instructions from [here](https://github.com/IBCNServices/pyRDF2Vec/wiki/Fast-generation-of-RDF2Vec-embeddings-with-a-SPARQL-endpoint)
+To set-up a dataset (e.g., DBPedia) end point on a local server, please find the instructions from [here](https://github.com/IBCNServices/pyRDF2Vec/wiki/Fast-generation-of-RDF2Vec-embeddings-with-a-SPARQL-endpoint)
 
